@@ -13,3 +13,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+# Write some text for fast forward merge demo
